@@ -1,0 +1,41 @@
+.base-c{
+    margin-top: 5%;
+}
+.main-c{
+    width: auto;
+    text-align: center;
+
+    
+}
+main{
+    background-image: url('bgimg.jpg');
+}
+.input-area{
+   padding-left:7% ;
+   padding-right:7% ;
+   padding-top: 2%;
+   padding-bottom:2% ;
+    font-size: larger;
+    margin-bottom: none;
+    border-color: black;
+   border-radius: 10px;
+}
+.secon-c{
+    display: flex;
+    padding:2%;
+    justify-content:center ;
+    
+
+}
+.btn-grid{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+   
+}
+.btn-d{
+   margin: 10%;
+   padding: 10%;
+   border-color: black;
+   border-radius: 10px;
+
+}
